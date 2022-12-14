@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'BauPro-bd';
+    src: url('BauPro-Bold.woff2') format('woff2'),
+        url('BauPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BauPro-md';
+    src: url('BauPro-Medium.woff2') format('woff2'),
+        url('BauPro-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'BauPro';
+    src: url('BauPro.woff2') format('woff2'),
+        url('BauPro.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
